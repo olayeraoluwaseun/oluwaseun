@@ -105,6 +105,8 @@ if(isset($_GET['admin'])){
 					</div>
 				</div>
 				</p>
+
+				<h1>hello everyybody</h1>
 				<!--<div class='row'>-->
 					<!--<div class='col-md-12'>-->
 						<!--<div class="well">-->
